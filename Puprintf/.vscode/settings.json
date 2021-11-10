@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"__hash_table": "c",
+		"functional": "c",
+		"memory": "c",
+		"mutex": "c",
+		"optional": "c",
+		"set": "c",
+		"unordered_map": "c",
+		"vector": "c",
+		"ft_printf.h": "c",
+		"libft.h": "c"
+	}
+}
